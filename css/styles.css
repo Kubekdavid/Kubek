@@ -33,7 +33,7 @@ body {
   border-radius: 50%;/* ak chceš pekný kruh */
   object-fit: cover;
   z-index: 2;
-  margin-top: -40% /* jemný posun hore */
+  margin-top: -10% /* jemný posun hore */
 }
 
 .site-title {
